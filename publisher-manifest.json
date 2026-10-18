@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "07dd53efad2360186d4856bc",
+  "owner": "feaucgxrkrt",
+  "repo": "page-ae6af9164c4550cdab2c1be8",
+  "title": "流光云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ae6af9164c4550cdab2c1be8",
+      "a": "流光云",
+      "b": "",
+      "entity": "流光云",
+      "brand": "流光云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "260af6d5fc61a5ed980d25a060dea245e9d4718a561f4747b292153b4ae5935a",
+      "content": {
+        "keyword1": "流光云",
+        "keyword2": "",
+        "primary_entity": "流光云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "流光云提供高效、稳定、清晰的现代化网络连接与传输服务。极简架构，按需配置，满足多样化网络需求。",
+          "AI_DESCRIPTION": "流光云提供高效、稳定、清晰的现代化网络连接与传输服务。极简架构，按需配置，满足多样化网络需求。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg: #1e242b;--panel: #272f38;--text: #c5d1d9;--text-main: #f0f4f8;--cyan: #00d2c4;--cyan-dim: rgba(0, 210, 196, 0.1);--border: #36414d;--radius: 16px;--transition: all 0.25s ease}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg);color: var(--text);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.6;padding: 0;margin: 0}\na {color: inherit;text-decoration: none}\n.layout {display: grid;grid-template-columns: 320px 1fr;min-height: 100vh}\n@media (max-width: 900px) {\n  .layout {grid-template-columns: 1fr}\n}\naside {background-color: var(--panel);border-right: 1px solid var(--border);padding: 4rem 2.5rem;display: flex;flex-direction: column;justify-content: space-between;position: sticky;top: 0;height: 100vh;overflow-y: auto}\n@media (max-width: 900px) {\n  aside {position: relative;height: auto;border-right: none;border-bottom: 1px solid var(--border);padding: 2rem 1.5rem}\n}\n.brand-area h1 {font-size: 2.5rem;color: var(--text-main);letter-spacing: -0.05em;margin-bottom: 1rem}\n.brand-area p {font-size: 0.95rem;color: var(--text);opacity: 0.8;margin-bottom: 3rem}\n.nav-links {display: flex;flex-direction: column;gap: 1rem}\n.nav-links a {font-size: 1rem;color: var(--text);padding: 0.5rem 0;border-bottom: 1px solid transparent;transition: var(--transition)}\n.nav-links a:hover {color: var(--cyan);border-bottom-color: var(--cyan);padding-left: 6px}\n.aside-footer {font-size: 0.85rem;opacity: 0.5;margin-top: 4rem}\nmain {padding: 5rem 6rem;max-width: 1200px}\n@media (max-width: 900px) {\n  main {padding: 3rem 1.5rem}\n}\nsection {margin-bottom: 6rem}\nh2 {font-size: 1.75rem;color: var(--text-main);margin-bottom: 1.5rem;letter-spacing: -0.03em}\np {margin-bottom: 1.5rem}\n.hero-content {max-width: 700px}\n.hero-content h2 {font-size: 3rem;line-height: 1.1;color: var(--text-main);margin-bottom: 1.5rem;letter-spacing: -0.04em}\n.hero-content p {font-size: 1.25rem;color: var(--text);margin-bottom: 2.5rem}\n.btn {display: inline-block;background-color: var(--cyan);color: #12161a;font-weight: 600;padding: 0.85rem 2rem;border-radius: 8px;transition: var(--transition)}\n.btn:hover {opacity: 0.9;transform: translateY(-2px)}\n.features-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 2rem}\n.card {background-color: var(--panel);border-radius: var(--radius);padding: 2.5rem;box-shadow: 0 10px 30px rgba(0,0,0,0.15);transition: var(--transition)}\n.card:hover {transform: translateY(-4px);box-shadow: 0 15px 35px rgba(0,0,0,0.25)}\n.card h3 {color: var(--text-main);margin-bottom: 1rem;font-size: 1.25rem}\n.plans-list {display: flex;flex-direction: column;gap: 1.5rem}\n.plan-item {background-color: var(--panel);border-radius: var(--radius);padding: 2rem 2.5rem;display: flex;justify-content: space-between;align-items: center;box-shadow: 0 10px 30px rgba(0,0,0,0.15);transition: var(--transition)}\n@media (max-width: 768px) {\n  .plan-item {flex-direction: column;align-items: flex-start;gap: 1.5rem}\n}\n.plan-item.featured {border: 1px solid var(--cyan);background: linear-gradient(135deg, var(--panel) 0%, #222c35 100%)}\n.plan-info h3 {color: var(--text-main);font-size: 1.5rem;margin-bottom: 0.5rem}\n.plan-info p {color: var(--text);font-size: 0.9rem;margin-bottom: 0;opacity: 0.8}\n.plan-pricing {text-align: right}\n@media (max-width: 768px) {\n  .plan-pricing {text-align: left}\n}\n.price {font-size: 1.75rem;color: var(--cyan);font-weight: bold;margin-bottom: 0.25rem}\n.annual {font-size: 0.85rem;opacity: 0.6}\n.faq-list {display: flex;flex-direction: column;gap: 1.5rem}\n.faq-item {background-color: var(--panel);border-radius: var(--radius);padding: 2rem;box-shadow: 0 10px 30px rgba(0,0,0,0.15)}\n.faq-item h3 {color: var(--text-main);font-size: 1.15rem;margin-bottom: 0.75rem;display: flex;align-items: baseline;gap: 1rem}\n.faq-item h3 span {color: var(--cyan);font-size: 0.9rem;font-weight: normal}\n.faq-item p {margin-bottom: 0;opacity: 0.9}\n</style><div class=\"layout\">\n  <aside>\n    <div class=\"brand-area\">\n      <h1>流光云</h1>\n      <p>高速、稳健、纯粹的现代化网络连接体验。</p>\n      <nav class=\"nav-links\">\n        <a href=\"#hero\">核心主张</a>\n        <a href=\"#features\">服务优势</a>\n        <a href=\"#plans\">方案配置</a>\n        <a href=\"#faq\">常见问题</a>\n      </nav>\n    </div>\n    <div class=\"aside-footer\">\n      © 流光云保留所有权利。\n    </div>\n  </aside>\n\n  <main>\n    <section id=\"hero\">\n      <div class=\"hero-content\">\n        <h2>连接无界<br>数据流光而至</h2>\n        <p>精简架构。高效传输。为注重效率与稳定性的用户提供清晰、可靠的现代化网络基础设施方案。</p>\n        <a href=\"#plans\" class=\"btn\">查看可用方案</a>\n      </div>\n    </section>\n\n    <section id=\"features\">\n      <h2>服务特性</h2>\n      <div class=\"features-grid\">\n        <div class=\"card\">\n          <h3>极速传输</h3>\n          <p>依托优质骨干网络，确保数据传输高效、低延迟，告别拥堵与卡顿。</p>\n        </div>\n        <div class=\"card\">\n          <h3>多端同步</h3>\n          <p>支持多种主流操作系统与智能设备，单一账户满足多场景协同连接需求。</p>\n        </div>\n        <div class=\"card\">\n          <h3>安全稳健</h3>\n          <p>采用先进加密算法与严格的隐私保护机制，确保数据链路安全可靠。</p>\n        </div>\n      </div>\n    </section>\n\n    <section id=\"plans\">\n      <h2>灵活方案</h2>\n      <div class=\"plans-list\">\n        <div class=\"plan-item\">\n          <div class=\"plan-info\">\n            <h3>基础版</h3>\n            <p>每月 100GB 流量 · 支持 3 台设备 · 普通节点池</p>\n          </div>\n          <div class=\"plan-pricing\">\n            <div class=\"price\">¥15/月</div>\n            <div class=\"annual\">按年付仅需 ¥150/年</div>\n          </div>\n        </div>\n\n        <div class=\"plan-item featured\">\n          <div class=\"plan-info\">\n            <h3>旗舰版</h3>\n            <p>每月 300GB 流量 · 支持 5 台设备 · IPLC 专线优化</p>\n          </div>\n          <div class=\"plan-pricing\">\n            <div class=\"price\">¥35/月</div>\n            <div class=\"annual\">按年付仅需 ¥350/年</div>\n          </div>\n        </div>\n\n        <div class=\"plan-item\">\n          <div class=\"plan-info\">\n            <h3>团队版</h3>\n            <p>每月 1000GB 流量 · 支持 20 台设备 · 专属高带宽节点</p>\n          </div>\n          <div class=\"plan-pricing\">\n            <div class=\"price\">¥85/月</div>\n            <div class=\"annual\">按年付仅需 ¥850/年</div>\n          </div>\n        </div>\n      </div>\n    </section>\n\n    <section id=\"faq\">\n      <h2>常见问题</h2>\n      <div class=\"faq-list\">\n        <div class=\"faq-item\">\n          <h3><span>01</span> 如何开始使用流光云服务？</h3>\n          <p>注册账户后，选择适合您的配置方案，获取专属连接凭证，即可在对应客户端中导入并开始使用。</p>\n        </div>\n        <div class=\"faq-item\">\n          <h3><span>02</span> 支持哪些设备与客户端？</h3>\n          <p>全面兼容主流桌面及移动操作系统，提供直观易用的客户端配置指引，轻松实现多端互联。</p>\n        </div>\n        <div class=\"faq-item\">\n          <h3><span>03</span> 流量是否支持重置或叠加？</h3>\n          <p>套餐流量按自然月周期定期重置。如当月流量用尽，您可随时选择按需升级或购买额外的流量加油包。</p>\n        </div>\n        <div class=\"faq-item\">\n          <h3><span>04</span> 遇到连接异常该如何处理？</h3>\n          <p>您可以优先查阅后台的帮助文档或客户端常见故障排查指南。旗舰版与团队版用户可享受优先工单支持。</p>\n        </div>\n      </div>\n    </section>\n  </main>\n</div>",
+          "hash": "133d6bab50fa8c334442b930b2680332c94f22284845b498cf2ded45874b5ba6",
+          "seo": {
+            "title": "流光云 - 高性能网络连接与传输服务",
+            "keywords": "流光云,网络加速,专线连接,数据传输,稳定连接",
+            "description": "流光云提供高效、稳定、清晰的现代化网络连接与传输服务。极简架构，按需配置，满足多样化网络需求。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "3566",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "7 石板灰配青色",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ylqbd.cn",
+    "host": "p-56fc2555e9.ylqbd.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "e45ed6ff448aae4b09233cd0cd24a6be94bcb6311a71d659120675341c1a55e2",
+    "sitemap.xml": "1ad9bb5ebce399adc9f2c07e8f8d900251bdcf6457258b9f2db66f9f95dd38d2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3eb86c6462f67d6544224778c9aad718f2d710542f970207f204e6e710c4d8ef",
+    "robots.txt": "8cb66a3bc961a40db7e4ffe03cd806cd0875c81c859dbfeb52255a3bd9b71d61",
+    "318ae03094c6ab2ece3c8853e15e95e7.txt": "5ea8e452a9963e699fbba56c6c2804a6a10f05303959b5834f36647c2c9edb0e"
+  },
+  "revision": "0a23dba8bba9416c26beb6b7a53a490b678818c85490ffa4dbc708873d8cd856"
+}
